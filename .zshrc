@@ -101,5 +101,5 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 alias nvim="~/nvim-linux64/bin/nvim"
-eval "$(zoxide init -- cmd cd zsh)"
+eval "$(zoxide init --cmd cd zsh)"
 
