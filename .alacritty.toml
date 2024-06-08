@@ -38,8 +38,9 @@ white   = '#ebdbb2'
 [cursor]
 style = { shape = "Beam", blinking = "Off"}
 
-[font.normal]
-family = "MesloLGS NF"
+[font]
+normal= {family = "JetBrainsMono"}
+size = 13
 
 [env]
 TERM = "xterm-256color"
