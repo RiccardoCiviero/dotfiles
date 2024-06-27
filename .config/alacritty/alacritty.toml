@@ -1,0 +1,16 @@
+import = [
+  "~/.config/alacritty/catppuccin-frappe.toml"
+  #"~/.config/alacritty/gruvbox.toml"
+
+]
+
+
+
+[font]
+normal = { family = "HackNerdFont", style= "Regular"}
+bold = { family = "HackNerdFont", style= "Bold"}
+italic = { family = "HackNerdFont", style= "Italic"}
+
+[env]
+TERM = "xterm-256color"
+
